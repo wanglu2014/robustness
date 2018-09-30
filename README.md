@@ -33,6 +33,7 @@ If you have any questions about the software, please email
 swami.iyer@gmail.com.
 
 （robustness_subgraph.py）
-Spliting graph into subgraphs, deleting node by the order of netweenness and degree, then calculating the largest component to measure the robustness.
-
+Spliting graph into subgraphs, deleting node by the order of netweenness and degree, then calculating the largest component to measure the changed robustness. 
+wanglu2014@sibcb.ac.cn
+Usage is same: python robustness.py <infile> <outfile> <recalculate>
 
