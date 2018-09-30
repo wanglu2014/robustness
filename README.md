@@ -28,6 +28,11 @@ simultaneous (False), or sequential (True).
 * [Matplotlib](http://matplotlib.org/)
 
 ## Contact
-
+（robustness.py）
 If you have any questions about the software, please email 
 swami.iyer@gmail.com.
+
+（robustness_subgraph.py）
+Spliting graph into subgraphs, deleting node by the order of netweenness and degree, then calculating the largest component to measure the robustness.
+
+
